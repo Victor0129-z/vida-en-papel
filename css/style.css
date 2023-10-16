@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100;200;300;400;500;600&display=swap');
 
 :root{
-    --orange:#F45D38;
-    --dark-orange:#b63d1f;
+    --orange:#7c3827;
+    --dark-orange:#744539;
     --black:#232830;
     --light-color:#666;
-    --white: #FEFAB6;
+    --white: #ebbc57;
     --border:.1rem solid rgba(0,0,0,.1);
     --border-hover:.1rem solid var(--black);
     --box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
